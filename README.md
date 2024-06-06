@@ -112,7 +112,7 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```pkg install python```
 
-```git clone https://github.com/thehackingsage/hacktronian.git```
+```git clone https://github.com/indomiehaxor/hacktronian.git```
 
 ```cd hacktronian```
 
@@ -126,7 +126,7 @@ YouTube : https://www.youtube.com/watch?v=1LJlyQAQby4
 
 ## License :
 
-[MIT Licence](https://github.com/thehackingsage/hacktronian/blob/master/LICENSE)
+[MIT Licence](https://github.com/indomiehaxor/hacktronian/blob/master/LICENSE)
 
 That's It... If You Like This Repo. Please Share This With Your Friends..
 
